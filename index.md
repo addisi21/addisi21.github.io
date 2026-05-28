@@ -1,6 +1,6 @@
 # Onaefe Raphael Addisi
 
-**AI Data Quality Specialist | RLHF Evaluator | AI Safety & Document QA**
+**AI Data Quality Specialist. RLHF Evaluator. AI Safety & Document QA.**
 
 I help teams evaluate AI systems for accuracy, safety, instruction-following, document structure, and domain reliability. My experience covers RLHF, SFT, annotation QA, AI safety review, document extraction validation, voice AI, video AI, customer-support model testing, and HR AI platform review.
 
