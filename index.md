@@ -14,16 +14,24 @@ I help teams evaluate AI systems for accuracy, safety, instruction-following, do
 ## Featured Work
 
 ### AI Evaluation Case Studies
-Anonymized case studies covering finance/insurance AI output QA, customer-support chatbot evaluation, HR AI tool testing, voice AI review, and video/generative media evaluation.
+Anonymized case studies covering finance/insurance AI output QA, customer-support chatbot evaluation, HR AI tool testing, voice AI review, and video/generative media evaluation. Includes structured score data and a runnable Python score-summary script.
 
 ### RLHF Rubric Portfolio
-Evaluation rubrics for instruction adherence, factual accuracy, helpfulness, safety, formatting, verbosity, and user experience.
+Evaluation rubrics for instruction adherence, factual accuracy, helpfulness, safety, formatting, verbosity, and user experience. Includes A/B response score data and a script that calculates decision gaps.
 
 ### Document AI JSON QA
-Examples of how to review AI-extracted JSON against source documents, detect schema errors, and classify financial/legal extraction failures.
+Examples of how to review AI-extracted JSON against source documents, detect schema errors, and classify financial/legal extraction failures. Includes a JSON schema, extracted JSON sample, expected values, and validation script.
 
 ### AI Safety Evaluation Notes
-Public-facing safety review notes covering harmful-content detection, borderline policy cases, refusal quality, and safe completion behavior.
+Public-facing safety review notes covering harmful-content detection, borderline policy cases, refusal quality, and safe completion behavior. Includes structured safety cases and a script-generated review log.
+
+## Quick Links
+
+- [Portfolio deck](portfolio-deck)
+- [AI evaluation proof summary](https://github.com/addisi21/ai-evaluation-case-studies/blob/main/outputs/score-summary.md)
+- [RLHF A/B evaluation summary](https://github.com/addisi21/rlhf-rubric-portfolio/blob/main/outputs/evaluation-summary.md)
+- [Document AI validation report](https://github.com/addisi21/document-ai-json-qa/blob/main/outputs/validation-report.md)
+- [AI safety review log](https://github.com/addisi21/ai-safety-evaluation-notes/blob/main/outputs/safety-review-log.md)
 
 ## Confidentiality
 
